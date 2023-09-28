@@ -88,7 +88,7 @@
   <!--project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="blaze" /-->
 
   <!-- system repos -->
-  <project path="system/core" name="system_core" groups="pdk" remote="blaze-gitlab" />
+  <project path="system/core" name="system_core" groups="pdk" remote="blaze" />
   <project path="system/libhidl" name="system_libhidl" groups="pdk" remote="blaze" />
   <project path="system/security" name="system_security" groups="pdk" remote="blaze" />
   <project path="system/sepolicy" name="system_sepolicy" remote="blaze" />
